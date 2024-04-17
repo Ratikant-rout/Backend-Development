@@ -1,0 +1,1 @@
+   cube_arr = arr.map(() => nums**3)
